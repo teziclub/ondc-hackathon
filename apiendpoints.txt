@@ -1,0 +1,5 @@
+"/products", methods=['GET']
+"/product_mrp", methods=['GET']
+"/product_cost", methods=['GET']
+"/user_input", methods=['POST']
+"/predictions", methods=['GET']
