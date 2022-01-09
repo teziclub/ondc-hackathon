@@ -1,1 +1,1 @@
-web: run this thing 
+heroku ps:scale web=1
